@@ -1,5 +1,5 @@
-import './App.css'
-import LanguageSwitcher from "./components/LanguageSwitcher.jsx";
+import '@/App.css'
+import LanguageSwitcher from "@/components/LanguageSwitcher.jsx";
 import {useTranslation} from "react-i18next";
 
 function App() {
